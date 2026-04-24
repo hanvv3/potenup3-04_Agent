@@ -11,3 +11,6 @@ wheels/
 .env
 credentials.json
 token.json
+
+# directories
+student_chromadb
